@@ -35,7 +35,6 @@
 1. Clone le repository :
 ```bash
 git clone https://github.com/arobaseSuulei/D-fi-national.git
-cd defi_natiooo
 ```
 
 2. Ouvre `index.html` dans ton navigateur
