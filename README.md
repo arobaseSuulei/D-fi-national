@@ -34,8 +34,8 @@
 ### Méthode Simple
 1. Clone le repository :
 ```bash
-git clone https://github.com/votre-username/village-numerique-resistant.git
-cd village-numerique-resistant
+git clone https://github.com/arobaseSuulei/D-fi-national.git
+cd defi_natiooo
 ```
 
 2. Ouvre `index.html` dans ton navigateur
